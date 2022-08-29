@@ -1,7 +1,9 @@
 
-<h1 align = "center" > UNEXPECTED </h1>
+<div style="background-color:#FF0000;" >
 
-<p align = "center" >
+<h1 align = "center"> UNEXPECTED </h1>
+
+<p align = "center">
     <img height = "160" src = "https://github.com/NEX-S/NEX-S/blob/main/ascii-2.png" />
 </p>
 
@@ -30,16 +32,17 @@
 <!-- <img height = "100" src = "https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logocolor=white" /> -->
 
 <!--
-    <p align = "center" >
+    <p align = "center">
         <img height = "120" src = "https://github-readme-stats.vercel.app/api?username=nex-s&hide=issues&title_color=C53B82&text_color=828282&bg_color=282828&hide_border=true&cache_seconds=1800&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true" />
     </p>
 
-    <p align = "center" >
+    <p align = "center">
         <img height = "200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nex-s&hide_title=true" />
     </p>
 
-    <p align = "center" >
+    <p align = "center">
         <img height = "80" src = "https://github-readme-stats.vercel.app/api/pin/?username=nex-s&repo=nvim-config" />
     </p>
 -->
 
+</div>
