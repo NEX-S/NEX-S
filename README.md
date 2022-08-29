@@ -4,6 +4,7 @@
 <p align = "center">
     <i>「 路漫漫其修远兮 吾将上下而求索 」</i>
     <br />
+    <br />
     <img height = "180" src = "https://github.com/NEX-S/NEX-S/blob/main/0040.gif" />
 </p>
 
