@@ -8,6 +8,7 @@
 <p align = "center" >
     <img height = "160" src = "https://github.com/NEX-S/NEX-S/blob/main/0040.gif" />
     <br />
+    <br />
     <img height = "25" src = "https://img.shields.io/badge/Linux-%23383838.svg?&style=for-the-badge&logo=ArchLinux&logoColor=%23ffffff" />
     <img height = "25" src = "https://img.shields.io/badge/Neovim-%23383838.svg?&style=for-the-badge&logo=Crystal&logoColor=%23ffffff" />
     <img height = "25" src = "https://img.shields.io/badge/Pentest-%23383838.svg?&style=for-the-badge&logo=DPD&logoColor=%23C53B82" />
