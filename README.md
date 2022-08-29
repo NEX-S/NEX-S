@@ -2,6 +2,8 @@
 <h1 align = "center"> UNEXPECTED </h1>
 
 <p align = "center">
+    <i>「 路漫漫其修远兮 吾将上下而求索 」</i>
+    <br />
     <img height = "180" src = "https://github.com/NEX-S/NEX-S/blob/main/0040.gif" />
 </p>
 
@@ -15,9 +17,6 @@
     <img height = "20" src = "https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logocolor=white" />
     <img height = "20" src = "https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge" />
     <img height = "20" src = "https://img.shields.io/badge/PHP-%236C5B9E.svg?style=for-the-badge" />
-    <br />
-    <br />
-    <i>「 路漫漫其修远兮 吾将上下而求索 」</i>
 </p>
 
 <!-- <i>「 一川煙雨 滿城風絮 」</i> -->
