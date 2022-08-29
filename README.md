@@ -1,9 +1,9 @@
 
 <h1 align = "center" > UNEXPECTED </h1>
 
-<!-- <p align = "center" > -->
-<!--     <img height = "160" src = "https://github.com/NEX-S/NEX-S/blob/main/0040.gif" /> -->
-<!-- </p> -->
+<p align = "center" >
+    <img height = "160" src = "https://github.com/NEX-S/NEX-S/blob/main/ascii-2.png" />
+</p>
 
 <p align = "center" >
     <img height = "25" src = "https://img.shields.io/badge/Linux-%23383838.svg?&style=for-the-badge&logo=ArchLinux&logoColor=%23ffffff" />
