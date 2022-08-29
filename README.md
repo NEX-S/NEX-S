@@ -1,10 +1,8 @@
 
-<div style="background-color:#FF0000;" >
-
 <h1 align = "center"> UNEXPECTED </h1>
 
 <p align = "center">
-    <img height = "160" src = "https://github.com/NEX-S/NEX-S/blob/main/ascii-2.png" />
+    <img height = "160" src = "https://github.com/NEX-S/NEX-S/blob/main/0070.gif" />
 </p>
 
 <p align = "center" >
@@ -44,5 +42,3 @@
         <img height = "80" src = "https://github-readme-stats.vercel.app/api/pin/?username=nex-s&repo=nvim-config" />
     </p>
 -->
-
-</div>
