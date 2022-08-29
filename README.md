@@ -2,7 +2,7 @@
 <h1 align = "center"> UNEXPECTED </h1>
 
 <p align = "center">
-    <img height = "180" src = "https://github.com/NEX-S/NEX-S/blob/main/0070.gif" />
+    <img height = "180" src = "https://github.com/NEX-S/NEX-S/blob/main/0040.gif" />
 </p>
 
 <p align = "center" >
