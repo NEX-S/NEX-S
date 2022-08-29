@@ -2,9 +2,10 @@
 <h1 align = "center"> UNEXPECTED </h1>
 
 <p align = "center">
-    <i>「 路漫漫其修远兮 吾将上下而求索 」</i>
-    <br />
-    <br />
+    <i> " 路漫漫其修远兮 吾将上下而求索 " </i>
+</p>
+
+<p align = "center">
     <img height = "180" src = "https://github.com/NEX-S/NEX-S/blob/main/0040.gif" />
 </p>
 
