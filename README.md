@@ -2,7 +2,7 @@
 <h1 align = "center"> UNEXPECTED </h1>
 
 <p align = "center">
-    <i> “ 路漫漫其修远兮 吾将上下而求索 ” </i>
+    <i> " 路漫漫其修远兮 吾将上下而求索 " </i>
 </p>
 
 <p align = "center">
